@@ -36,7 +36,7 @@ Metropolitan areas add ~15% wage premium; Western region adds ~9%.
 
 Being in a professional occupation increases wages by ~16%; service roles reduce wages by ~10%.
 
-Model underestimates wages for females, suggesting unaccounted variance.
+Residuals for females show a modest non-uniform spread, suggesting that some variance in female wages may not be fully captured with currently available variables.
 
 # Recommendations
 
@@ -48,8 +48,8 @@ Model underestimates wages for females, suggesting unaccounted variance.
 
 •		Account for maternity or career breaks, especially for female population
 
-•		Expand industry classifications beyond broad categories
+•		Expand industry classifications 
 
 •		Add age or birth year to improve demographic modeling
 
-•		Include more granular location data if available
+•		Include more granular location
