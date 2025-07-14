@@ -1,6 +1,6 @@
 # Project Overview
 
-This project explores the key variables influencing individual hourly wages and builds a predictive model to estimate wages based on demographic, occupational, and regional factors. The dataset contains 526 validated records of individuals in the U.S., including information on education, experience, tenure, number of dependents, industry, occupation, region, and more.
+In this project I have explored the key variables influencing individual hourly wages and built a predictive model to estimate wages based on demographic, occupational, and regional factors. The dataset contains 526 validated records of individuals in the U.S., including information on education, experience, tenure, number of dependents, industry, occupation, region, and more.
 
 # Key Findings
 
