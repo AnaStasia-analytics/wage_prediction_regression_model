@@ -1,10 +1,10 @@
 # Project Overview
 
-In this project I have explored the key variables influencing individual hourly wages and built a predictive model to estimate wages based on demographic, occupational, and regional factors. The dataset contains 526 validated records of individuals in the U.S., including information on education, experience, tenure, number of dependents, industry, occupation, region, and more.
+In this project I have explored the key variables influencing individual hourly wages and built a predictive model to estimate wages based on demographic, occupational, and regional factors. The dataset contains 526 validated records of individuals in the U.S., including information on education, experience, tenure, number of dependents, industry, occupation and region.
 
 # Key Findings
 
-Gender Gap: Males tend to earn more than females across most industries and regions. Wage disparity is also linked to differences in education levels and occupation types.
+Gender Gap: Males tend to earn more than females across all industries. Wage disparity is also linked to differences in education levels and occupation types.
 
 Education & Experience: Wage increases with education and experience, but effects are nonlinear and differ by gender. For males, more education and experience lead to higher wages; for females, the relationship is more complex.
 
@@ -12,7 +12,7 @@ Location & Industry: Metropolitan areas and Western regions show higher average 
 
 Modeling: A linear regression model using log-transformed wages achieved an adjusted R² of 0.556. The model includes interaction terms and polynomial features to capture nonlinear effects.
 
-# Steps performed (please refer to the code attached)
+# Steps performed (please refer to the Python code attached)
 
 •		Data cleaning and verification (16 rows removed)
 
